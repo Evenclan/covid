@@ -1,0 +1,35 @@
+body {
+    background-color: #ccc;
+}
+
+p {
+    font-size: 22px;
+}
+
+.container {
+    display: flex;
+}
+
+.poland {
+    margin-right: 20px;
+}
+
+.portugal {
+    margin-right: 20px;
+}
+
+.death {
+    background-color: red;
+}
+
+.heal {
+    background-color: green;
+}
+
+.case {
+    background-color: brown;
+}
+
+span {
+    font-size: 32px;
+}
